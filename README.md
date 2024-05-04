@@ -1,3 +1,3 @@
 # Control-II
 
-Codigo para el control teorico de un motor DC controlado por DC 
+Este repositorio contiene Código para el control PID teorico de un motor DC en MATLAB 
